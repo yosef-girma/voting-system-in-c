@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1547471174 source:c:\users\ethiopia\documents\c programs\voting system in c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1547426751 source:c:\users\ethiopia\documents\c programs\untitled1.c
+
+1547463865 source:c:\users\ethiopia\documents\c programs\voting system in c\vo.c
+
+1547469489 source:c:\users\ethiopia\documents\c programs\voting system in c\untitled2.cpp
+	<iostream>
+	<fstream>
+	<process.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<conio.h>
+
